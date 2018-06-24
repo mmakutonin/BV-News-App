@@ -1,0 +1,32 @@
+{
+    "expo": {
+        "name": "Bona-Venture",
+        "slug": "bv-website-project-full",
+        "privacy": "unlisted",
+        "sdkVersion": "25.0.0",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "primaryColor": "#fdb726",
+        "icon": "./assets/icons/app-icon.png",
+        "splash": {
+            "image": "./assets/icons/app-icon-loading.png",
+            "backgroundColor": "#FFFFFF"
+        },
+        "ios": {
+            "bundleIdentifier": "com.BonaventureUniversity.BVApp",
+             "supportsTablet": true
+        },
+        "android": {
+            "package": "com.BonaventureUniversity.BVApp",
+            "permissions": []
+        },
+        "packagerOpts": {
+            "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+        },
+        }
+        }
