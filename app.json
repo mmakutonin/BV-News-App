@@ -14,7 +14,7 @@
         },
         "ios": {
             "bundleIdentifier": "com.BonaventureUniversity.BVApp",
-             "supportsTablet": true
+             "supportsTablet": false
         },
         "android": {
             "package": "com.BonaventureUniversity.BVApp",
