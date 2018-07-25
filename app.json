@@ -4,7 +4,7 @@
         "slug": "bv-website-project-full",
         "privacy": "unlisted",
         "sdkVersion": "28.0.0",
-        "version": "1.0.0",
+        "version": "1.0.3",
         "orientation": "portrait",
         "primaryColor": "#fdb726",
         "icon": "./assets/icons/app-icon.png",

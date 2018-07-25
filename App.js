@@ -21,7 +21,7 @@ export default class App extends React.Component {
     this.setState({ fontLoaded: true });
     XHR.get(
       'http://www.thebvnewspaper.com//wp-json/wp/v2/posts?after=' +
-        new Date(new Date() - 2592000000).toISOString()
+        new Date(new Date() - 31536000000).toISOString()
     )
       .then(r => {
         this.setState({ data: r, loading: true });
